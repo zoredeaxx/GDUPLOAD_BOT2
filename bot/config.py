@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1992881492:AAGM_6EMlqKo4NcOXhVHxw-KbW06XQJHp10"
+    APP_ID = "7523379"
+    API_HASH = "ce43762f206dc2a2eb115986fbe3b4a2"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "429535048" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "1044198668159-76q6gli7r4pas3slhgq3tfi29ad5639t.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "cYc-0KVJ1kEanAXUAY8OKaK7"
+    SUPPORT_CHAT_LINK = "https://t.me/zordrivebot"
 
 
 class BotCommands:
