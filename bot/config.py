@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1992881492:AAGM_6EMlqKo4NcOXhVHxw-KbW06XQJHp10"
     APP_ID = "7523379"
     API_HASH = "ce43762f206dc2a2eb115986fbe3b4a2"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgres://fxtefyxk:U4iDP0ZYlgg2346SM8OUIDuZCMapEzyN@chunee.db.elephantsql.com/fxtefyxk"
     SUDO_USERS = "429535048" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "1044198668159-76q6gli7r4pas3slhgq3tfi29ad5639t.apps.googleusercontent.com"
